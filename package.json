@@ -1,0 +1,27 @@
+{
+  "name": "@4a/source",
+  "version": "0.1.0",
+  "description": "query source, 查询来源",
+  "main": "lib/index.js",
+  "scripts": {
+    "dev": "cd example && npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavinning/source.git"
+  },
+  "keywords": [
+    "query",
+    "source",
+    "查询来源"
+  ],
+  "author": "gavinning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gavinning/source/issues"
+  },
+  "homepage": "https://github.com/gavinning/source#readme",
+  "dependencies": {
+    "querystring": "^0.2.0"
+  }
+}
